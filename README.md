@@ -15,7 +15,7 @@ Library Buddy is your ultimate companion for simplifying library-related tasks a
 - **User-Friendly Interface:** Library Buddy's intuitive graphical user interface (GUI) ensures that users of all technical backgrounds can navigate and benefit from its features effortlessly.
 
 
-![Deployed App](https://replit.com/@sivani-l-r/Library-Buddy?v=1#main.py)
+!(Deployed App)[https://replit.com/@sivani-l-r/Library-Buddy?v=1#main.py]
 
 
 
